@@ -4,6 +4,7 @@ public class Perimeter
 {
     static void Main(string[] args)
     {
+        //hi
         Console.Write("Введите длину стороны квадрата (a): ");
         double a = Convert.ToDouble(Console.ReadLine());
 
